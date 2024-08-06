@@ -1,2 +1,2 @@
 # practicas
-Cositas para repasar cosas
+Cositas para repasar
